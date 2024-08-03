@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+div{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 10px;
+    /* text-align: justify; */
+    /* height: 400px; */
+    width: 205px;
+    margin-left:20px ;
+    margin-top: 20px;
+}
+h1{
+    text-transform: capitalize;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+p{
+    padding: 20px;
+}
